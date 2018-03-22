@@ -18,18 +18,43 @@ html{
   margin-left: 500px;
   margin-right: 250px;
   margin-top: 150px;
-  margin-bottom: 300px;
-
 
 }
 
 .buscador{
  align-content: center;
  align-items: center;
- margin-left: 500px;
+ margin-left:350px;
  margin-right: 250px;
- margin-top: 150px;
- margin-bottom:px;
-
+ margin-top: 50px;
+ width: 550px;
 
 }
+
+.buscar{
+  allign-content:center;
+  align-content: center;
+  align-items: center;
+  margin-left:500px;
+  align-content: space-between;
+  margin-top: 20px;
+
+}
+
+.argie{
+  text-align :left;
+  background-color: grey;
+
+}
+
+.viri{
+  background-color: grey;
+}
+
+.iqui{
+  text-align: left;
+  }
+
+  .diri{
+    text-align: right;
+  }
